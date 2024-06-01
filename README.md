@@ -3,7 +3,7 @@
 
 Thanks to the creators for creating these fun puzzles! I will be working these over
 the summer to learn more about GPU Programming. Note the rest of the README was
-published by the original repository. Check it out!
+published by the original repository. Check it out! - Anay
 
 ![](https://github.com/srush/GPU-Puzzles/raw/main/cuda.png)
 

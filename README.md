@@ -1,6 +1,10 @@
 # GPU Puzzles
 - by [Sasha Rush](http://rush-nlp.com) - [srush_nlp](https://twitter.com/srush_nlp)
 
+Thanks to the creators for creating these fun puzzles! I will be working these over
+the summer to learn more about GPU Programming. Note the rest of the README was
+published by the original repository. Check it out!
+
 ![](https://github.com/srush/GPU-Puzzles/raw/main/cuda.png)
 
 GPU architectures are critical to machine learning, and seem to be
